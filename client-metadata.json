@@ -1,5 +1,4 @@
 {
-  // Must be the same URL as the one used to obtain this JSON object
   "client_id": "https://hanssen0.github.io/test/client-metadata.json",
   "client_name": "CCC App",
   "client_uri": "http://127.0.0.1:3000",
